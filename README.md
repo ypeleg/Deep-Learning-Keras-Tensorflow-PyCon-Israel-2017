@@ -6,7 +6,6 @@
 <br>
 
 # Author: Yam Peleg 
-### Deep Trading 
 
 
 
