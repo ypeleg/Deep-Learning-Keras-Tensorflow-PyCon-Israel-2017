@@ -1,6 +1,6 @@
 <div>
     <h1 style="text-align: center;">Deep Learning with Keras and Tensorflow</h1>
-    <img style="text-align: left" src="https://blog.keras.io/img/keras-tensorflow-logo.jpg" width="15%" />
+    <img style="text-align: left" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRcgZCv9gaRFsZ-5O_oS1_VreH-DlXKYK41WzhhJDTrINncuACkQ  " width="15%" />
     <img style="text-align: left" src="http://il.pycon.org/wwwpyconIL/themes/custom/eldan/images/logo_pyconil.png" width="15%" />
 <div>
 <br>
