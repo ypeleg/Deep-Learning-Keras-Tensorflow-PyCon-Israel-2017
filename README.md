@@ -5,7 +5,7 @@
 <div>
 <br>
 
-# Author: Yam Peleg 
+# Authors: Yam Peleg, Valerio Maggio 
 
 
 

@@ -1,4 +1,4 @@
-name: deep-learning-pydatait-tutorial
+name: deep-learning-pydatapyconil-tutorial
 dependencies:
 - accelerate=2.3.0=np111py35_3
 - accelerate_cudalib=2.0=0
